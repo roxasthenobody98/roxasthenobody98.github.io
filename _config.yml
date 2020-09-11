@@ -6,4 +6,4 @@ description: > # this means to ignore newlines until "twitter_username:"
 # social links
 github_username: roxasthenobody98
 
-theme: jekyll-theme-minimal
+theme: minima
