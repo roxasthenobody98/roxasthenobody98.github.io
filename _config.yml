@@ -8,4 +8,4 @@ description: > # this means to ignore newlines until "twitter_username:"
 # social links
 github_username: roxasthenobody98
 
-theme: minima
+theme: jekyll-theme-cayman
